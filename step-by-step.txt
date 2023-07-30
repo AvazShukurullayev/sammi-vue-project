@@ -1,0 +1,7 @@
+1. bootstrap va font awesome ni uladik
+2. bootstrapdan navbar oldik va components ichida Navbar.vue ochdik va ichiga joyladik
+3. components ichida index.js fayl ochdik va export {default as Navbar} from "./Navbar.vue"
+4. App da import {Navbar} from "@/components" va chaqirdik va components: {Navbar}, da ham follow qilib qoydik
+5. LoginView va RegisterView da ham bootsrapdan example oldik va qoydik
+6. LoginView va RegisterView larni routerga ulab qoyildi
+7.
